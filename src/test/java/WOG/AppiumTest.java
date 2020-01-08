@@ -11,6 +11,8 @@ public class AppiumTest {
 		System.out.println("Android");
 		
 		System.out.println("Android2");
+
+	System.out.println("Sa bahay to pinush");
 	}
 	
 	@Test
