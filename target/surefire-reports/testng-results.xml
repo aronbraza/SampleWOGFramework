@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-06T06:49:45Z" name="Surefire suite" finished-at="2020-01-06T06:51:07Z" duration-ms="82193">
+    <groups>
+    </groups>
+    <test started-at="2020-01-06T06:49:45Z" name="Surefire test" finished-at="2020-01-06T06:51:07Z" duration-ms="82193">
+      <class name="WOG.SeleniumTest">
+        <test-method signature="LoginToPEMC()[pri:0, instance:WOG.SeleniumTest@294425a7]" started-at="2020-01-06T06:49:45Z" name="LoginToPEMC" finished-at="2020-01-06T06:49:45Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToPEMC -->
+        <test-method signature="OpenPEMC()[pri:0, instance:WOG.SeleniumTest@294425a7]" started-at="2020-01-06T06:49:45Z" name="OpenPEMC" finished-at="2020-01-06T06:51:07Z" duration-ms="82152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenPEMC -->
+      </class> <!-- WOG.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
